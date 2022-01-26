@@ -41,7 +41,7 @@
       </div>
       <hr>
       <div class="dog">
-        <img src="/foty/pexels-leah-kelley-8050579.jpg" class="img-thumbnail" alt="..." width="300">
+        <img src="/foty" class="img-thumbnail" alt="..." width="300">
         <div class="details">
           <p>WILLY Rajska Dolina</p>
           <p>Champion Polski, Champion Czech</p>
