@@ -15,6 +15,7 @@
   </head>
 
   <body>
+
     <nav class="navbar navbar-expand-sm bg-light justify-content-end">
       <ul class="navbar-nav">
         <li class="nav-item">
@@ -45,6 +46,9 @@
       </ul>
     </nav>
 
+    <main class="landpage">
+    <img class="photo-dogi" src="foty/dogi.jpg" alt="">
+    <div>
     <h2>Hodowla Rajska Dolina XDDDDD</h2>
     <fieldset>
       <legend>Cavalier King Charles Spaniel</legend>
@@ -74,5 +78,7 @@
         Wszystkie potrzebne informacje znajdują się w zakładce "Kontakt"
       </div>
     </fieldset>
+</div>
+</main>
   </body>
 </html>

@@ -17,6 +17,12 @@ main > div {
 p{
     font-size:1.2em;
 }
+
+.photo-dogi{
+    height: 700px;
+    width: 900px;
+}
+
 .card-text{
     font-size: 2em;
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
