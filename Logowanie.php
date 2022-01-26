@@ -10,35 +10,25 @@
 </head>
 <body>
 
-    <nav class="navbar navbar-expand-sm bg-light justify-content-end">
+<nav class="navbar navbar-expand-sm bg-light justify-content-end">
         <ul class="navbar-nav">
           <li class="nav-item">
-                <form action="stronaGlowna.php" method="post">
-                    <input type="submit" value="Strona Główna">
-                </form>
+            <a class="nav-link" href="stronaGlowna.php">Strona Główna</a>
           </li>
             <li class="nav-item">
-                <form action="psy.html" method="post">
-                    <input type="submit" value="Szczeniaki">
-                </form>
+            <a class="nav-link" href="szczeniaki.php">Szczeniaki</a>
           </li>
           <li class="nav-item">
-                <form action="psy.html" method="post">
-                    <input type="submit" value="Psy">
-                </form>
+            <a class="nav-link" href="psy.php">Psy</a>
           </li>
           <li class="nav-item">
-                <form action="Kontakt.php" method="post">
-                    <input type="submit" value="Kontakt">
-                </form>
+            <a class="nav-link" href="Kontakt.php">Kontakt</a>
+            <li class="nav-item">
+            <a class="nav-link" href="Logowanie.php">Konto</a>
           </li>
-		  <li class="nav-item">
-                <form action="Edytujprofil.php" method="post">
-                    <input type="submit" value="Konto">
-                </form>
           </li>
         </ul>
-    </nav>
+      </nav>
 
 	<h1>Logowanie</h1>
 	<br>

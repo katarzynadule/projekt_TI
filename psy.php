@@ -12,16 +12,19 @@
     <nav class="navbar navbar-expand-sm bg-light justify-content-end">
         <ul class="navbar-nav">
           <li class="nav-item">
-            <a class="nav-link" href="stronaGlowna.html">Strona Główna</a>
+            <a class="nav-link" href="stronaGlowna.php">Strona Główna</a>
           </li>
             <li class="nav-item">
-            <a class="nav-link" href="szczeniaki.html">Szczeniaki</a>
+            <a class="nav-link" href="szczeniaki.php">Szczeniaki</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="psy.html">Psy</a>
+            <a class="nav-link" href="psy.php">Psy</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" href="Kontakt.php">Kontakt</a>
+            <li class="nav-item">
+            <a class="nav-link" href="Logowanie.php">Konto</a>
+          </li>
           </li>
         </ul>
       </nav>
