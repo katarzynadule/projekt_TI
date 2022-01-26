@@ -21,3 +21,13 @@ p{
     font-size: 2em;
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
+
+.dogs{
+    margin: 10px;
+}
+.dog{
+    display: flex;
+}
+.details{
+    margin: 10px;
+}
